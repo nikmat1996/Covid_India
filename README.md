@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#Covid India
+# Covid India
+
 A webpage which shows the stats of covid cases in India, based on states as well as districs.
 
 ## Landing Page
