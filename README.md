@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br/>
 
 
-- when you click on a row/state, another table drops-down as accordion listing the details all the districts of that particular state.
+- when you click on a row/state, another table drops-down as accordion listing the details of all the districts in that particular state.
 
 ![Screenshot from 2020-08-10 16-16-50](https://user-images.githubusercontent.com/56962520/89786201-2fcffc80-db39-11ea-85aa-4e132f9aac38.png)
 
